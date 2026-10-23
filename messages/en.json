@@ -1,0 +1,267 @@
+{
+  "brand": {
+    "name": "Lucky Travel Ethiopia",
+    "shortName": "Lucky Travel",
+    "tagline": "Ethiopia, thoughtfully planned."
+  },
+  "meta": {
+    "title": "Lucky Travel Ethiopia | Ethiopia, thoughtfully planned",
+    "description": "Discover Ethiopia's destinations, compare travel plans with clear ETB pricing, and follow transparent rules — in English and Amharic."
+  },
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNavigation": "Main navigation",
+    "footerNavigation": "Footer navigation",
+    "languageSwitcher": "Choose language",
+    "categoryRail": "Experience categories",
+    "previous": "Previous",
+    "next": "Next",
+    "loading": "Loading",
+    "pagination": "Pagination"
+  },
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "travelPlans": "Travel plans",
+    "selectionEvents": "Selection events",
+    "results": "Results",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "terms": "Terms",
+    "privacy": "Privacy"
+  },
+  "actions": {
+    "exploreDestinations": "Explore destinations",
+    "viewTravelPlans": "View travel plans",
+    "backHome": "Back to home",
+    "learnMore": "Learn more",
+    "search": "Search",
+    "reset": "Try again",
+    "close": "Close",
+    "explore": "Explore"
+  },
+  "common": {
+    "comingSoon": "Coming soon",
+    "searchTerm": "Your search",
+    "searchUnavailable": "Search results are not published yet."
+  },
+  "home": {
+    "announcement": "A bilingual way to discover Ethiopia.",
+    "eyebrow": "Tourism discovery, reimagined",
+    "title": "Ethiopia is calling.",
+    "titleAccent": "Answer with a plan.",
+    "description": "Discover remarkable destinations, compare what each journey offers, and build a travel plan with clear ETB pricing and published rules — in English and Amharic.",
+    "searchLabel": "Search destinations",
+    "searchPlaceholder": "City, region, or experience",
+    "searchSubmit": "Search",
+    "searchHint": "Published destinations only. The full catalogue is coming soon.",
+    "searchErrorShort": "Enter at least 2 characters.",
+    "searchErrorLong": "Keep your search under 80 characters.",
+    "heroAlt": "Abstract illustration of Ethiopian highlands with a golden sun and layered green mountains",
+    "heroVisual": {
+      "regionLabel": "Ethiopia",
+      "note": "One country. Endless journeys.",
+      "languageLabel": "English + አማርኛ"
+    },
+    "trust": {
+      "bilingual": {
+        "title": "Bilingual by design",
+        "description": "English and Amharic from discovery to payment."
+      },
+      "pricing": {
+        "title": "Clear ETB pricing",
+        "description": "See the complete plan price before you pay."
+      },
+      "rules": {
+        "title": "Published rules",
+        "description": "Eligibility, refunds and event terms stay visible."
+      }
+    },
+    "categories": {
+      "eyebrow": "Explore by experience",
+      "title": "Find your kind of Ethiopia",
+      "description": "From sacred sites and living heritage to highland trails, lakes and city escapes.",
+      "action": "Explore category"
+    },
+    "steps": {
+      "eyebrow": "How it works",
+      "title": "A clearer way to plan",
+      "description": "No guesswork between discovery and checkout.",
+      "one": {
+        "title": "Discover",
+        "description": "Browse destinations by category, region and price."
+      },
+      "two": {
+        "title": "Build your plan",
+        "description": "Choose your destinations and review every line of the price."
+      },
+      "three": {
+        "title": "Pay with clarity",
+        "description": "Check eligibility and terms, then continue through the approved Telebirr flow."
+      },
+      "note": "Payment does not guarantee a trip, prize or winning outcome. Selection events, when offered, follow published rules and require legal approval."
+    },
+    "bilingual": {
+      "eyebrow": "Bilingual by default",
+      "title": "English and Amharic, side by side",
+      "description": "Every destination, plan, rule and FAQ is authored in both languages. Admin publishing stays blocked until the Amharic field is complete.",
+      "englishLabel": "English",
+      "amharicLabel": "አማርኛ",
+      "englishSample": "See the full plan price before you pay.",
+      "amharicSample": "ከመክፈልዎ በፊት ሙሉ የእቅዱን ዋጋ ይመልከቱ።",
+      "publishRule": "No silent machine translation for legal terms."
+    },
+    "transparency": {
+      "eyebrow": "Transparent by design",
+      "title": "Built for trust, not guesswork",
+      "description": "The important details stay visible before and after payment.",
+      "rules": {
+        "title": "Published rules",
+        "description": "Eligibility, refunds and selection terms are visible before payment."
+      },
+      "payments": {
+        "title": "Verified payment state",
+        "description": "The server confirms with the provider. A browser redirect never marks an order paid."
+      },
+      "audit": {
+        "title": "Auditable selections",
+        "description": "When legally permitted, locked snapshots and results can be independently checked."
+      }
+    },
+    "cta": {
+      "eyebrow": "Start exploring",
+      "title": "Your Ethiopian journey starts with a clear plan.",
+      "description": "Explore the foundation of a platform built for discovery, clarity and trust.",
+      "button": "Explore destinations"
+    }
+  },
+  "categories": {
+    "religious": {
+      "name": "Religious and spiritual",
+      "description": "Faith-led journeys and contemplative places."
+    },
+    "heritage": {
+      "name": "Culture and heritage",
+      "description": "Living traditions, museums and generational history."
+    },
+    "cities": {
+      "name": "Cities and urban life",
+      "description": "Markets, neighbourhoods and modern city escapes."
+    },
+    "luxury": {
+      "name": "Luxury stays",
+      "description": "Comfortable hotels, resorts and slower getaways."
+    },
+    "mountains": {
+      "name": "Mountains and landscapes",
+      "description": "Highland trails, viewpoints and open country."
+    },
+    "parks": {
+      "name": "Parks and wildlife",
+      "description": "National parks and wildlife habitats."
+    },
+    "water": {
+      "name": "Lakes and waterfalls",
+      "description": "Lakes, rivers and waterfall settings."
+    },
+    "historical": {
+      "name": "Historical sites",
+      "description": "Archaeological and historical attractions."
+    },
+    "adventure": {
+      "name": "Adventure and outdoors",
+      "description": "Active journeys that connect you with nature."
+    },
+    "community": {
+      "name": "Community tourism",
+      "description": "Travel that supports local communities."
+    },
+    "food": {
+      "name": "Food and culinary",
+      "description": "Ethiopian dishes and food-led experiences."
+    }
+  },
+  "placeholder": {
+    "note": "This page is part of the foundation release. No live listings, prices, eligibility decisions or legal terms are published here yet."
+  },
+  "pages": {
+    "destinations": {
+      "eyebrow": "Destination discovery",
+      "title": "Ethiopia's destinations are being prepared",
+      "description": "Verified destination pages and published prices will appear here once administrators complete the bilingual content.",
+      "detail": "The future catalogue will support category, region and price discovery, with English and Amharic content on every published destination."
+    },
+    "travelPlans": {
+      "eyebrow": "Travel plans",
+      "title": "Travel plans are being prepared",
+      "description": "Plan options, complete ETB prices and eligibility rules will be published here after review.",
+      "detail": "Every plan will show included services, the full price and the rules that apply before any payment is requested."
+    },
+    "selectionEvents": {
+      "eyebrow": "Selection events",
+      "title": "No selection events are open",
+      "description": "Paid selection features are disabled until legal approval and provider readiness are complete.",
+      "detail": "Any future event must publish its legal status, eligibility, rules and results process before entry opens."
+    },
+    "results": {
+      "eyebrow": "Published results",
+      "title": "No published results yet",
+      "description": "Official results will appear here with a verification reference.",
+      "detail": "A result is only published after the selection record is locked and the published rules have been followed."
+    },
+    "about": {
+      "eyebrow": "About us",
+      "title": "A clearer way to discover Ethiopia",
+      "description": "Lucky Travel Ethiopia is being built to connect remarkable destinations with clear plans, bilingual guidance and transparent rules.",
+      "detail": "The platform prioritises verified content, server-verified payments and accessible travel information in English and Amharic."
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Official support channels are being finalised",
+      "description": "We will publish verified support details here before launch. No support email or phone line is active yet.",
+      "detail": "Please do not send payment details or identity documents through unofficial channels."
+    },
+    "faq": {
+      "eyebrow": "Frequently asked questions",
+      "title": "Answers are being prepared",
+      "description": "Clear guidance on destinations, plans, payments, eligibility and selection events will be published here.",
+      "detail": "The FAQ will be reviewed in both languages before it is published."
+    },
+    "terms": {
+      "eyebrow": "Terms of service",
+      "title": "These terms are not in force",
+      "description": "This page is a placeholder while the legal terms are prepared and reviewed.",
+      "detail": "No purchase, selection entry or payment should rely on this page. Approved terms will be published before any paid feature opens."
+    },
+    "privacy": {
+      "eyebrow": "Privacy policy",
+      "title": "This privacy policy is not in force",
+      "description": "This page is a placeholder while the privacy policy is prepared and reviewed.",
+      "detail": "The approved policy will explain what data is collected, why it is needed, how long it is kept and how to exercise your rights."
+    }
+  },
+  "footer": {
+    "tagline": "Ethiopia, thoughtfully planned.",
+    "description": "A bilingual tourism platform designed for clear plans, verified payment state and transparent rules.",
+    "explore": "Explore",
+    "company": "Company",
+    "legal": "Legal",
+    "language": "Language",
+    "disclaimer": "A purchase does not guarantee a trip, prize or winning outcome. Paid selection events remain disabled until legal and provider approvals are complete.",
+    "copyright": "© Lucky Travel Ethiopia. All rights reserved."
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "title": "This page could not be found",
+    "description": "The page you are looking for does not exist or has moved."
+  },
+  "error": {
+    "eyebrow": "Something went wrong",
+    "title": "We could not load this page",
+    "description": "Please try again. If the problem continues, return home and try later.",
+    "retry": "Try again"
+  }
+}
